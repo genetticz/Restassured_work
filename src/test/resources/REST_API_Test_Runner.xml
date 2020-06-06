@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Rest API Automation" parallel="false" >
+
+    <test name = "Ecommerce Home">
+
+        <classes>
+            <!--  <class name="page_objects_test.HomePageTest"/>-->
+            <class name="CreateIssueTest"/>
+            <!--  <class name="page_objects_test.HomePageTest"/>-->
+        </classes>
+
+        <!--Hello-->
+    </test>
+
+</suite>
